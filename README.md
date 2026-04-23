@@ -1,6 +1,6 @@
 <h1 align="center">  EJERCICIO HILOS, MULTIPROCESOS Y SECUENCIALES </h1>
 
-<h2>Proyecto: Laboratorio de Arquitectura de Computadores “Monitor de recursos del sistema con concurrencia y gráficos en tiempo real”</h2>
+<h2 align="center">Proyecto: Laboratorio de Arquitectura de Computadores “Monitor de recursos del sistema con concurrencia y gráficos en tiempo real”</h2>
 
 Este aplicativo tiene un dashboard para visualizar CPU, RAM, núcleos y sistema en tiempo real. 
 Incluye procesamiento de imágenes y un log de ejecución donde verás cuánto tiempo tardó cada modelo de concurrencia en procesar cada imagen
